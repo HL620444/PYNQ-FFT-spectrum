@@ -1,0 +1,1 @@
+create_clock -period 10 -name clk_100m [get_pins design_1_i/processing_system7_0/inst/PS7_i/FCLKCLK[0]]
